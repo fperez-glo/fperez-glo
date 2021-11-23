@@ -1,5 +1,6 @@
-<img align='center' src="https://capsule-render.vercel.app/api?type=waving&color=0:DBD4B4,70:7AA1D2,60:CC95C0&height=300&section=header&text=Hi!%20I%27m%20Facundo!&fontSize=80" />
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBD4B4,70:7AA1D2,60:CC95C0&height=300&section=header&text=Hi!%20I%27m%20Facundo!&fontSize=80" />
+</div>
 
 
  <h3 align="center">💻 Full Stack developer 💻</h3> 
