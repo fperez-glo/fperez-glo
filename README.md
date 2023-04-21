@@ -26,7 +26,7 @@
 <h3 align="center"> Contact Me </h3>
 <p align="center">
   <a href="mailto:facundoperez6@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=facundoperez6@gmail.com"/></a>&nbsp
- <a href="https://www.linkedin.com/in/facundo-nahuel-perez-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/facundo-nahuel-perez-dev/"/></a>&nbsp
+ <a href="https://www.linkedin.com/in/fperezdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/facundo-nahuel-perez-dev/"/></a>&nbsp
 </p>
 
 <p align="center">
